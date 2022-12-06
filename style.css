@@ -1,0 +1,14 @@
+.form {
+    border: 1px solid tomato;
+    font-family: 'Times New Roman', Times, serif;  
+    background-color: blueviolet;  
+    color: white;
+    margin: 10px 5px ;
+    padding: 30px;
+    width: 300px;
+}
+
+section{
+
+    margin-left: 400px;
+}
